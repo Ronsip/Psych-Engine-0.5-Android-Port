@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zanta Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zanta alt down0000" x="0" y="0" width="521" height="480"/>
+	<SubTexture name="zanta alt idle0000" x="521" y="0" width="487" height="495"/>
+	<SubTexture name="zanta alt left0000" x="1008" y="0" width="451" height="482"/>
+	<SubTexture name="zanta alt right0000" x="1459" y="0" width="462" height="474"/>
+	<SubTexture name="zanta alt up0000" x="1921" y="0" width="451" height="497"/>
+	<SubTexture name="zanta down0000" x="2372" y="0" width="521" height="539"/>
+	<SubTexture name="zanta idle0000" x="2893" y="0" width="487" height="553"/>
+	<SubTexture name="zanta left0000" x="3380" y="0" width="451" height="541"/>
+	<SubTexture name="zanta right0000" x="0" y="553" width="462" height="523"/>
+	<SubTexture name="zanta swap0000" x="462" y="553" width="488" height="551" frameX="0" frameY="-113" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0001" x="462" y="553" width="488" height="551" frameX="0" frameY="-113" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0002" x="462" y="553" width="488" height="551" frameX="0" frameY="-113" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0003" x="950" y="553" width="471" height="586" frameX="0" frameY="-78" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0004" x="950" y="553" width="471" height="586" frameX="0" frameY="-78" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0005" x="950" y="553" width="471" height="586" frameX="0" frameY="-78" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0006" x="1421" y="553" width="488" height="551" frameX="0" frameY="-113" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0007" x="1421" y="553" width="488" height="551" frameX="0" frameY="-113" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0008" x="1909" y="553" width="441" height="664" frameX="0" frameY="0" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0009" x="1909" y="553" width="441" height="664" frameX="0" frameY="0" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0010" x="2350" y="553" width="563" height="575" frameX="-32" frameY="-89" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0011" x="2350" y="553" width="563" height="575" frameX="-32" frameY="-89" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0012" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0013" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0014" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0015" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0016" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0017" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0018" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0019" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta swap0020" x="2913" y="553" width="678" height="578" frameX="-16" frameY="-79" frameWidth="694" frameHeight="664"/>
+	<SubTexture name="zanta up0000" x="3591" y="553" width="451" height="554"/>
+</TextureAtlas>
